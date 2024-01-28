@@ -161,6 +161,10 @@
     align-items: center;
 }
 
+#count .myc{
+    width: fit-content;
+    margin-inline:30px;
+}
 /*  */
 /*  */
 /*  */
